@@ -6,4 +6,5 @@ This repository contains safe rl papers from ICML 2023, ICML 2022, ICLR2023, ICL
 
 [Linearly Constrained Bilevel Optimization: A Smoothed Implicit Gradient Approach](http://proceedings.mlr.press/v202/khanduri23a/khanduri23a.pdf)
 
-https://icml.cc/virtual/2023/poster/23942
+[Scalable Safe Policy Improvement via Monte Carlo Tree Search
+](http://proceedings.mlr.press/v202/castellini23a/castellini23a.pdf)
