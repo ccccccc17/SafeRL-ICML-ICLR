@@ -50,5 +50,14 @@ LEARNING VIA IMPLICIT VALUE REGULARIZATION](https://openreview.net/pdf?id=ueYYgo
 
 
 ### ICLR 2022
+[CONSTRAINED POLICY OPTIMIZATION VIA BAYESIAN WORLD MODELS](https://openreview.net/pdf?id=PRZoSmCinhf)
+[Policy Smoothing for Provably Robust Reinforcement Learning](https://openreview.net/pdf?id=mwdfai8NBrJ)
 
-
+### ICML 2022
+[Sauté RL: Almost Surely Safe Reinforcement Learning Using State Augmentation](https://proceedings.mlr.press/v162/sootla22a/sootla22a.pdf)
+[A Simple Reward-free Approach to Constrained Reinforcement Learning](https://proceedings.mlr.press/v162/miryoosefi22a/miryoosefi22a.pdf)
+[Constrained Variational Policy Optimization for Safe Reinforcement Learning](https://proceedings.mlr.press/v162/liu22b/liu22b.pdf)
+[Nearly Minimax Optimal Reinforcement Learning with Linear Function Approximation](https://proceedings.mlr.press/v162/hu22a/hu22a.pdf)
+[Cascaded Gaps: Towards Logarithmic Regret for Risk-Sensitive Reinforcement Learning](https://proceedings.mlr.press/v162/fei22b/fei22b.pdf)
+[Safe Exploration for Efficient Policy Evaluation and Comparison](https://proceedings.mlr.press/v162/wan22b/wan22b.pdf)
+[Reachability Constrained Reinforcement Learning](https://proceedings.mlr.press/v162/yu22d/yu22d.pdf)
