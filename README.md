@@ -66,3 +66,4 @@ LEARNING VIA IMPLICIT VALUE REGULARIZATION](https://openreview.net/pdf?id=ueYYgo
 
 ### Meta Safe RL
 [MESA: Offline Meta-RL for Safe Adaptation and Fault Tolerance](https://arxiv.org/pdf/2112.03575.pdf)
+[Safe Reinforcement Learning through Meta-learned Instincts](https://arxiv.org/pdf/2005.03233.pdf)
