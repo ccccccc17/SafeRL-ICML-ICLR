@@ -61,3 +61,8 @@ LEARNING VIA IMPLICIT VALUE REGULARIZATION](https://openreview.net/pdf?id=ueYYgo
 [Cascaded Gaps: Towards Logarithmic Regret for Risk-Sensitive Reinforcement Learning](https://proceedings.mlr.press/v162/fei22b/fei22b.pdf)
 [Safe Exploration for Efficient Policy Evaluation and Comparison](https://proceedings.mlr.press/v162/wan22b/wan22b.pdf)
 [Reachability Constrained Reinforcement Learning](https://proceedings.mlr.press/v162/yu22d/yu22d.pdf)
+
+
+
+### Meta Safe RL
+[MESA: Offline Meta-RL for Safe Adaptation and Fault Tolerance](https://arxiv.org/pdf/2112.03575.pdf)
